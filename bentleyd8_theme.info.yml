@@ -1,0 +1,16 @@
+name: bentleyd8 theme
+type: theme
+description: Bentley D8 theme
+package: Other
+core: 8.x
+libraries:
+  - bentleyd8_theme/global-styling
+
+base theme: bootstrap
+
+regions:
+  content: Content
+  header: Header
+  footer: Footer
+  sidebar_left: Sidebar Left
+  content: Content
